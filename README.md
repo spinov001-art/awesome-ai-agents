@@ -29,6 +29,7 @@ A curated list of AI agent frameworks, tools, and platforms for building autonom
 | [MCP Servers Collection](https://github.com/spinov001-art/mcp-servers-collection) | 15+ MCP servers curated |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | Official TS SDK |
 | [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | Official Python SDK |
+| [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 
 ## Code Agents
 
