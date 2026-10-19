@@ -63,6 +63,7 @@ A curated list of AI agent frameworks, tools, and platforms for building autonom
 ### Tool Use & Function Calling
 | Tool | Description |
 |------|-------------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. |
 | [Composio](https://github.com/ComposioHQ/composio) | 150+ tools for AI agents |
 | [Toolhouse](https://toolhouse.ai) | Tool use infrastructure |
 
